@@ -1,6 +1,6 @@
 import React from "react";
-import Carousel from "../components/Carousel.jsx";
-import Booking from "../components/Booking.jsx";
+import Carousel from "../components/Carousel.js";
+import Booking from "../components/Booking.js";
 import androidImage from '../assets/images/android.jpg'; 
 const About = () => {
     return (
