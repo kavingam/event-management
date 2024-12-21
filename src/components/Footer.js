@@ -22,10 +22,10 @@ const Footer = () => {
             <p className="mb-2"><i className="fa fa-phone-alt me-3"></i>+91 9707 212121</p>
             <p className="mb-2"><i className="fa fa-envelope me-3"></i>venueassams.com</p>
             <div className="d-flex pt-2">
-              <a className="btn btn-outline-light btn-social" href=""><i className="fa-brands fa-facebook-f"></i></a>
-              <a className="btn btn-outline-light btn-social" href=""><i className="fa-brands fa-x-twitter"></i></a>
-              <a className="btn btn-outline-light btn-social" href=""><i className="fa-brands fa-instagram"></i></a>
-              <a className="btn btn-outline-light btn-social" href=""><i className="fa-brands fa-youtube"></i></a>
+              <a className="btn btn-outline-light btn-social" href="{}"><i className="fa-brands fa-facebook-f"></i></a>
+              <a className="btn btn-outline-light btn-social" href="{}"><i className="fa-brands fa-x-twitter"></i></a>
+              <a className="btn btn-outline-light btn-social" href="{}"><i className="fa-brands fa-instagram"></i></a>
+              <a className="btn btn-outline-light btn-social" href="{}"><i className="fa-brands fa-youtube"></i></a>
             </div>
           </div>
           <div className="col-lg-5 col-md-12">

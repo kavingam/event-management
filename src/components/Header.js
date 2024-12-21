@@ -30,16 +30,16 @@ const Header = () => {
             </div>
             <div className="col-lg-5 px-5 text-end">
               <div className="d-inline-flex align-items-center py-2">
-                <a className="me-3" href="#">
+                <a className="me-3" href="{}">
                   <i className="fa-brands fa-facebook"></i>
                 </a>
-                <a className="me-3" href="#">
+                <a className="me-3" href="{}">
                   <i className="fa-brands fa-x-twitter"></i>
                 </a>
-                <a className="me-3" href="#">
+                <a className="me-3" href="{}">
                   <i className="fa-brands fa-instagram"></i>
                 </a>
-                <a className="" href="#">
+                <a className="" href="{}">
                   <i className="fa-brands fa-youtube"></i>
                 </a>
               </div>
@@ -74,7 +74,7 @@ const Header = () => {
                   Rooms
                 </NavLink>
                 <div className="nav-item dropdown">
-                  <a href="#" className="nav-link dropdown-toggle" data-bs-toggle="dropdown">
+                  <a href="{}" className="nav-link dropdown-toggle" data-bs-toggle="dropdown">
                     Pages
                   </a>
                   <div className="dropdown-menu rounded-0 m-0">

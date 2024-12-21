@@ -51,7 +51,7 @@ const About = () => {
                   </div>
                 </div>
               </div>
-              <a className="btn btn-primary py-3 px-5 mt-2" href="">
+              <a className="btn btn-primary py-3 px-5 mt-2" href="{}">
                 Explore More
               </a>
             </div>
@@ -107,10 +107,10 @@ const About = () => {
                     Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.
                   </p>
                   <div className="d-flex justify-content-between">
-                    <a className="btn btn-sm btn-primary rounded py-2 px-4" href="">
+                    <a className="btn btn-sm btn-primary rounded py-2 px-4" href="{}">
                       Detail
                     </a>
-                    <a className="btn btn-sm btn-dark rounded py-2 px-4" href="">
+                    <a className="btn btn-sm btn-dark rounded py-2 px-4" href="{}">
                       Book Now
                     </a>
                   </div>
