@@ -1,8 +1,8 @@
+import React from "react";
 import '@fortawesome/fontawesome-free/css/all.min.css';
 // import "bootstrap/dist/css/bootstrap.min.css";
 // import "bootstrap/dist/js/bootstrap.bundle.min.js";
 import "./assets/layouts/css/style.css";
-import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 import Header from "./components/Header";
